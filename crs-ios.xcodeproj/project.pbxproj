@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04021F5226E128BA00ECE9AF /* CRSEllipsoids.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5026E128BA00ECE9AF /* CRSEllipsoids.h */; };
+		04021F5226E128BA00ECE9AF /* CRSEllipsoids.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5026E128BA00ECE9AF /* CRSEllipsoids.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04021F5326E128BA00ECE9AF /* CRSEllipsoids.m in Sources */ = {isa = PBXBuildFile; fileRef = 04021F5126E128BA00ECE9AF /* CRSEllipsoids.m */; };
-		04021F5626E131C900ECE9AF /* CRSPrimeMeridians.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5426E131C900ECE9AF /* CRSPrimeMeridians.h */; };
+		04021F5626E131C900ECE9AF /* CRSPrimeMeridians.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5426E131C900ECE9AF /* CRSPrimeMeridians.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04021F5726E131C900ECE9AF /* CRSPrimeMeridians.m in Sources */ = {isa = PBXBuildFile; fileRef = 04021F5526E131C900ECE9AF /* CRSPrimeMeridians.m */; };
-		04021F5C26E14E5700ECE9AF /* CRSProjParams.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5A26E14E5700ECE9AF /* CRSProjParams.h */; };
+		04021F5C26E14E5700ECE9AF /* CRSProjParams.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5A26E14E5700ECE9AF /* CRSProjParams.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04021F5D26E14E5700ECE9AF /* CRSProjParams.m in Sources */ = {isa = PBXBuildFile; fileRef = 04021F5B26E14E5700ECE9AF /* CRSProjParams.m */; };
-		04021F6026E150AD00ECE9AF /* CRSProjParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5E26E150AD00ECE9AF /* CRSProjParser.h */; };
+		04021F6026E150AD00ECE9AF /* CRSProjParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F5E26E150AD00ECE9AF /* CRSProjParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04021F6126E150AD00ECE9AF /* CRSProjParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 04021F5F26E150AD00ECE9AF /* CRSProjParser.m */; };
-		04021F6426E1699200ECE9AF /* CRSGeoDatums.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F6226E1699200ECE9AF /* CRSGeoDatums.h */; };
+		04021F6426E1699200ECE9AF /* CRSGeoDatums.h in Headers */ = {isa = PBXBuildFile; fileRef = 04021F6226E1699200ECE9AF /* CRSGeoDatums.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04021F6526E1699200ECE9AF /* CRSGeoDatums.m in Sources */ = {isa = PBXBuildFile; fileRef = 04021F6326E1699200ECE9AF /* CRSGeoDatums.m */; };
 		041F18E124CB2291001311E4 /* CRSReadmeTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 041F18E024CB2291001311E4 /* CRSReadmeTest.m */; };
 		041F18E424CB3762001311E4 /* CRSSwiftReadmeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041F18E324CB3762001311E4 /* CRSSwiftReadmeTest.swift */; };
 		042FC6571B963FE500549A4B /* crs_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 042FC64B1B963FE500549A4B /* crs_ios.framework */; };
 		042FC6AF1B96421E00549A4B /* (null) in Headers */ = {isa = PBXBuildFile; };
 		042FC6D31B96421E00549A4B /* crs-ios-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 042FC69E1B96421E00549A4B /* crs-ios-Prefix.pch */; };
-		042FC6D51B96453E00549A4B /* crs_ios.h in Headers */ = {isa = PBXBuildFile; fileRef = 042FC6D41B96453E00549A4B /* crs_ios.h */; };
-		0442249D26A9E75300B1E1F2 /* CRSReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 0442249B26A9E75300B1E1F2 /* CRSReader.h */; };
+		042FC6D51B96453E00549A4B /* crs_ios.h in Headers */ = {isa = PBXBuildFile; fileRef = 042FC6D41B96453E00549A4B /* crs_ios.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0442249D26A9E75300B1E1F2 /* CRSReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 0442249B26A9E75300B1E1F2 /* CRSReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0442249E26A9E75300B1E1F2 /* CRSReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0442249C26A9E75300B1E1F2 /* CRSReader.m */; };
-		044224A526A9E97000B1E1F2 /* CRSTextConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224A326A9E97000B1E1F2 /* CRSTextConstants.h */; };
+		044224A526A9E97000B1E1F2 /* CRSTextConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224A326A9E97000B1E1F2 /* CRSTextConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		044224A626A9E97000B1E1F2 /* CRSTextConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224A426A9E97000B1E1F2 /* CRSTextConstants.m */; };
-		044224A926A9E98800B1E1F2 /* CRSTextUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224A726A9E98800B1E1F2 /* CRSTextUtils.h */; };
+		044224A926A9E98800B1E1F2 /* CRSTextUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224A726A9E98800B1E1F2 /* CRSTextUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		044224AA26A9E98800B1E1F2 /* CRSTextUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224A826A9E98800B1E1F2 /* CRSTextUtils.m */; };
-		044224AD26AA0A7A00B1E1F2 /* CRSTextReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224AB26AA0A7A00B1E1F2 /* CRSTextReader.h */; };
+		044224AD26AA0A7A00B1E1F2 /* CRSTextReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 044224AB26AA0A7A00B1E1F2 /* CRSTextReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		044224AE26AA0A7A00B1E1F2 /* CRSTextReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224AC26AA0A7A00B1E1F2 /* CRSTextReader.m */; };
 		044224B426BC7E0300B1E1F2 /* CRSDateTimeTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224B326BC7E0300B1E1F2 /* CRSDateTimeTest.m */; };
 		044224B726BC7F2B00B1E1F2 /* CRSReaderWriterEpsgTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224B626BC7F2B00B1E1F2 /* CRSReaderWriterEpsgTest.m */; };
@@ -37,133 +37,134 @@
 		044224BD26BC7F9000B1E1F2 /* CRSReaderWriterTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224BC26BC7F9000B1E1F2 /* CRSReaderWriterTest.m */; };
 		044224C026BC7FBE00B1E1F2 /* CRSTextReaderTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224BF26BC7FBE00B1E1F2 /* CRSTextReaderTest.m */; };
 		044224C326BC800E00B1E1F2 /* CRSTextUtilsTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 044224C226BC800E00B1E1F2 /* CRSTextUtilsTest.m */; };
-		0458104826EAAE4E0044DC70 /* CRSProjConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 0458104626EAAE4E0044DC70 /* CRSProjConstants.h */; };
+		0458104826EAAE4E0044DC70 /* CRSProjConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 0458104626EAAE4E0044DC70 /* CRSProjConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0458104926EAAE4E0044DC70 /* CRSProjConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 0458104726EAAE4E0044DC70 /* CRSProjConstants.m */; };
 		0458104E26EB9B550044DC70 /* CRSProjParserTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 0458104D26EB9B550044DC70 /* CRSProjParserTest.m */; };
-		0472B51B1C03590500496B87 /* crs-ios-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 0472B51A1C03590500496B87 /* crs-ios-Bridging-Header.h */; };
-		04BCA983269CAAB40015DEC0 /* CRSCategoryTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA981269CAAB40015DEC0 /* CRSCategoryTypes.h */; };
+		04BCA983269CAAB40015DEC0 /* CRSCategoryTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA981269CAAB40015DEC0 /* CRSCategoryTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA984269CAAB40015DEC0 /* CRSCategoryTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA982269CAAB40015DEC0 /* CRSCategoryTypes.m */; };
-		04BCA987269CAE880015DEC0 /* CRSTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA985269CAE880015DEC0 /* CRSTypes.h */; };
+		04BCA987269CAE880015DEC0 /* CRSTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA985269CAE880015DEC0 /* CRSTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA988269CAE880015DEC0 /* CRSTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA986269CAE880015DEC0 /* CRSTypes.m */; };
-		04BCA98B269CBE400015DEC0 /* CRSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA989269CBE400015DEC0 /* CRSObject.h */; };
+		04BCA98B269CBE400015DEC0 /* CRSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA989269CBE400015DEC0 /* CRSObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA98C269CBE400015DEC0 /* CRSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA98A269CBE400015DEC0 /* CRSObject.m */; };
-		04BCA992269CC4A40015DEC0 /* CRSIdentifier.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA990269CC4A40015DEC0 /* CRSIdentifier.h */; };
+		04BCA992269CC4A40015DEC0 /* CRSIdentifier.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA990269CC4A40015DEC0 /* CRSIdentifier.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA993269CC4A40015DEC0 /* CRSIdentifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA991269CC4A40015DEC0 /* CRSIdentifier.m */; };
-		04BCA998269DB03B0015DEC0 /* CRSWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA996269DB03B0015DEC0 /* CRSWriter.h */; };
+		04BCA998269DB03B0015DEC0 /* CRSWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA996269DB03B0015DEC0 /* CRSWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA999269DB03B0015DEC0 /* CRSWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA997269DB03B0015DEC0 /* CRSWriter.m */; };
-		04BCA99D269DC4540015DEC0 /* CRSGeographicBoundingBox.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA99B269DC4540015DEC0 /* CRSGeographicBoundingBox.h */; };
+		04BCA99D269DC4540015DEC0 /* CRSGeographicBoundingBox.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA99B269DC4540015DEC0 /* CRSGeographicBoundingBox.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA99E269DC4540015DEC0 /* CRSGeographicBoundingBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA99C269DC4540015DEC0 /* CRSGeographicBoundingBox.m */; };
-		04BCA9A1269DD71C0015DEC0 /* CRSUnit.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA99F269DD71C0015DEC0 /* CRSUnit.h */; };
+		04BCA9A1269DD71C0015DEC0 /* CRSUnit.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA99F269DD71C0015DEC0 /* CRSUnit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9A2269DD71C0015DEC0 /* CRSUnit.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9A0269DD71C0015DEC0 /* CRSUnit.m */; };
-		04BCA9A5269DD78A0015DEC0 /* CRSUnitTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9A3269DD78A0015DEC0 /* CRSUnitTypes.h */; };
+		04BCA9A5269DD78A0015DEC0 /* CRSUnitTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9A3269DD78A0015DEC0 /* CRSUnitTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9A6269DD78A0015DEC0 /* CRSUnitTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9A4269DD78A0015DEC0 /* CRSUnitTypes.m */; };
-		04BCA9A9269E06E90015DEC0 /* CRSVerticalExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9A7269E06E90015DEC0 /* CRSVerticalExtent.h */; };
+		04BCA9A9269E06E90015DEC0 /* CRSVerticalExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9A7269E06E90015DEC0 /* CRSVerticalExtent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9AA269E06E90015DEC0 /* CRSVerticalExtent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9A8269E06E90015DEC0 /* CRSVerticalExtent.m */; };
-		04BCA9AD269E18320015DEC0 /* CRSDateTime.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9AB269E18320015DEC0 /* CRSDateTime.h */; };
+		04BCA9AD269E18320015DEC0 /* CRSDateTime.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9AB269E18320015DEC0 /* CRSDateTime.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9AE269E18320015DEC0 /* CRSDateTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9AC269E18320015DEC0 /* CRSDateTime.m */; };
-		04BCA9B1269EFD480015DEC0 /* CRSTemporalExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9AF269EFD480015DEC0 /* CRSTemporalExtent.h */; };
+		04BCA9B1269EFD480015DEC0 /* CRSTemporalExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9AF269EFD480015DEC0 /* CRSTemporalExtent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9B2269EFD480015DEC0 /* CRSTemporalExtent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9B0269EFD480015DEC0 /* CRSTemporalExtent.m */; };
-		04BCA9B5269F11A10015DEC0 /* CRSExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9B3269F11A10015DEC0 /* CRSExtent.h */; };
+		04BCA9B5269F11A10015DEC0 /* CRSExtent.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9B3269F11A10015DEC0 /* CRSExtent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9B6269F11A10015DEC0 /* CRSExtent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9B4269F11A10015DEC0 /* CRSExtent.m */; };
-		04BCA9B9269F1FBC0015DEC0 /* CRSUsage.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9B7269F1FBC0015DEC0 /* CRSUsage.h */; };
+		04BCA9B9269F1FBC0015DEC0 /* CRSUsage.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9B7269F1FBC0015DEC0 /* CRSUsage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9BA269F1FBC0015DEC0 /* CRSUsage.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9B8269F1FBC0015DEC0 /* CRSUsage.m */; };
-		04BCA9BD269F505E0015DEC0 /* CRSCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9BB269F505E0015DEC0 /* CRSCommon.h */; };
+		04BCA9BD269F505E0015DEC0 /* CRSCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9BB269F505E0015DEC0 /* CRSCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9BE269F505E0015DEC0 /* CRSCommon.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9BC269F505E0015DEC0 /* CRSCommon.m */; };
-		04BCA9C1269F719E0015DEC0 /* CRSCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9BF269F719E0015DEC0 /* CRSCoordinateReferenceSystem.h */; };
+		04BCA9C1269F719E0015DEC0 /* CRSCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9BF269F719E0015DEC0 /* CRSCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9C2269F719E0015DEC0 /* CRSCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9C0269F719E0015DEC0 /* CRSCoordinateReferenceSystem.m */; };
-		04BCA9C6269F7B980015DEC0 /* CRSAxisDirectionTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9C4269F7B980015DEC0 /* CRSAxisDirectionTypes.h */; };
+		04BCA9C6269F7B980015DEC0 /* CRSAxisDirectionTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9C4269F7B980015DEC0 /* CRSAxisDirectionTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9C7269F7B980015DEC0 /* CRSAxisDirectionTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9C5269F7B980015DEC0 /* CRSAxisDirectionTypes.m */; };
-		04BCA9CA269F7CBE0015DEC0 /* CRSAxis.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9C8269F7CBE0015DEC0 /* CRSAxis.h */; };
+		04BCA9CA269F7CBE0015DEC0 /* CRSAxis.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9C8269F7CBE0015DEC0 /* CRSAxis.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9CB269F7CBE0015DEC0 /* CRSAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9C9269F7CBE0015DEC0 /* CRSAxis.m */; };
-		04BCA9CE26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9CC26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.h */; };
+		04BCA9CE26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9CC26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9CF26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9CD26A06B0C0015DEC0 /* CRSCoordinateSystemTypes.m */; };
-		04BCA9D226A079A10015DEC0 /* CRSCoordinateSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D026A079A10015DEC0 /* CRSCoordinateSystem.h */; };
+		04BCA9D226A079A10015DEC0 /* CRSCoordinateSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D026A079A10015DEC0 /* CRSCoordinateSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9D326A079A10015DEC0 /* CRSCoordinateSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9D126A079A10015DEC0 /* CRSCoordinateSystem.m */; };
-		04BCA9D626A0948A0015DEC0 /* CRSDatumEnsembleMember.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D426A0948A0015DEC0 /* CRSDatumEnsembleMember.h */; };
+		04BCA9D626A0948A0015DEC0 /* CRSDatumEnsembleMember.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D426A0948A0015DEC0 /* CRSDatumEnsembleMember.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9D726A0948A0015DEC0 /* CRSDatumEnsembleMember.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9D526A0948A0015DEC0 /* CRSDatumEnsembleMember.m */; };
-		04BCA9DA26A0A0C90015DEC0 /* CRSDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D826A0A0C90015DEC0 /* CRSDatumEnsemble.h */; };
+		04BCA9DA26A0A0C90015DEC0 /* CRSDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9D826A0A0C90015DEC0 /* CRSDatumEnsemble.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9DB26A0A0C90015DEC0 /* CRSDatumEnsemble.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9D926A0A0C90015DEC0 /* CRSDatumEnsemble.m */; };
-		04BCA9DE26A0B3F30015DEC0 /* CRSDynamic.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9DC26A0B3F30015DEC0 /* CRSDynamic.h */; };
+		04BCA9DE26A0B3F30015DEC0 /* CRSDynamic.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9DC26A0B3F30015DEC0 /* CRSDynamic.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9DF26A0B3F30015DEC0 /* CRSDynamic.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9DD26A0B3F30015DEC0 /* CRSDynamic.m */; };
-		04BCA9E226A0BDE70015DEC0 /* CRSReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E026A0BDE70015DEC0 /* CRSReferenceFrame.h */; };
+		04BCA9E226A0BDE70015DEC0 /* CRSReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E026A0BDE70015DEC0 /* CRSReferenceFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9E326A0BDE70015DEC0 /* CRSReferenceFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9E126A0BDE70015DEC0 /* CRSReferenceFrame.m */; };
-		04BCA9E626A0CAC00015DEC0 /* CRSUnits.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E426A0CAC00015DEC0 /* CRSUnits.h */; };
+		04BCA9E626A0CAC00015DEC0 /* CRSUnits.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E426A0CAC00015DEC0 /* CRSUnits.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9E726A0CAC00015DEC0 /* CRSUnits.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9E526A0CAC00015DEC0 /* CRSUnits.m */; };
-		04BCA9EA26A1AD7E0015DEC0 /* CRSOperationTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E826A1AD7E0015DEC0 /* CRSOperationTypes.h */; };
+		04BCA9EA26A1AD7E0015DEC0 /* CRSOperationTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9E826A1AD7E0015DEC0 /* CRSOperationTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9EB26A1AD7E0015DEC0 /* CRSOperationTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9E926A1AD7E0015DEC0 /* CRSOperationTypes.m */; };
-		04BCA9EE26A1B2E60015DEC0 /* CRSOperationParameters.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9EC26A1B2E60015DEC0 /* CRSOperationParameters.h */; };
+		04BCA9EE26A1B2E60015DEC0 /* CRSOperationParameters.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9EC26A1B2E60015DEC0 /* CRSOperationParameters.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9EF26A1B2E60015DEC0 /* CRSOperationParameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9ED26A1B2E60015DEC0 /* CRSOperationParameters.m */; };
-		04BCA9F226A1DBB80015DEC0 /* CRSOperationParameter.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F026A1DBB80015DEC0 /* CRSOperationParameter.h */; };
+		04BCA9F226A1DBB80015DEC0 /* CRSOperationParameter.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F026A1DBB80015DEC0 /* CRSOperationParameter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9F326A1DBB80015DEC0 /* CRSOperationParameter.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9F126A1DBB80015DEC0 /* CRSOperationParameter.m */; };
-		04BCA9F626A203560015DEC0 /* CRSOperationMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F426A203560015DEC0 /* CRSOperationMethods.h */; };
+		04BCA9F626A203560015DEC0 /* CRSOperationMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F426A203560015DEC0 /* CRSOperationMethods.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9F726A203560015DEC0 /* CRSOperationMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9F526A203560015DEC0 /* CRSOperationMethods.m */; };
-		04BCA9FA26A5A7A70015DEC0 /* CRSOperationMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F826A5A7A70015DEC0 /* CRSOperationMethod.h */; };
+		04BCA9FA26A5A7A70015DEC0 /* CRSOperationMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9F826A5A7A70015DEC0 /* CRSOperationMethod.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9FB26A5A7A70015DEC0 /* CRSOperationMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9F926A5A7A70015DEC0 /* CRSOperationMethod.m */; };
-		04BCA9FE26A5BA7C0015DEC0 /* CRSOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9FC26A5BA7C0015DEC0 /* CRSOperation.h */; };
+		04BCA9FE26A5BA7C0015DEC0 /* CRSOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA9FC26A5BA7C0015DEC0 /* CRSOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCA9FF26A5BA7C0015DEC0 /* CRSOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCA9FD26A5BA7C0015DEC0 /* CRSOperation.m */; };
-		04BCAA0326A5CB7B0015DEC0 /* CRSConcatenatedOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0126A5CB7B0015DEC0 /* CRSConcatenatedOperation.h */; };
+		04BCAA0326A5CB7B0015DEC0 /* CRSConcatenatedOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0126A5CB7B0015DEC0 /* CRSConcatenatedOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA0426A5CB7B0015DEC0 /* CRSConcatenatedOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA0226A5CB7B0015DEC0 /* CRSConcatenatedOperation.m */; };
-		04BCAA0726A5DA440015DEC0 /* CRSSimpleOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0526A5DA440015DEC0 /* CRSSimpleOperation.h */; };
+		04BCAA0726A5DA440015DEC0 /* CRSSimpleOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0526A5DA440015DEC0 /* CRSSimpleOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA0826A5DA440015DEC0 /* CRSSimpleOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA0626A5DA440015DEC0 /* CRSSimpleOperation.m */; };
-		04BCAA0B26A5DF430015DEC0 /* CRSCoordinateOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0926A5DF430015DEC0 /* CRSCoordinateOperation.h */; };
+		04BCAA0B26A5DF430015DEC0 /* CRSCoordinateOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0926A5DF430015DEC0 /* CRSCoordinateOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA0C26A5DF430015DEC0 /* CRSCoordinateOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA0A26A5DF430015DEC0 /* CRSCoordinateOperation.m */; };
-		04BCAA0F26A5E3780015DEC0 /* CRSPointMotionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0D26A5E3780015DEC0 /* CRSPointMotionOperation.h */; };
+		04BCAA0F26A5E3780015DEC0 /* CRSPointMotionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0D26A5E3780015DEC0 /* CRSPointMotionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA1026A5E3780015DEC0 /* CRSPointMotionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA0E26A5E3780015DEC0 /* CRSPointMotionOperation.m */; };
-		04BCAA1426A5EBD50015DEC0 /* CRSCoordinateMetadata.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1226A5EBD50015DEC0 /* CRSCoordinateMetadata.h */; };
+		04BCAA1426A5EBD50015DEC0 /* CRSCoordinateMetadata.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1226A5EBD50015DEC0 /* CRSCoordinateMetadata.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA1526A5EBD50015DEC0 /* CRSCoordinateMetadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA1326A5EBD50015DEC0 /* CRSCoordinateMetadata.m */; };
-		04BCAA1826A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1626A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.h */; };
+		04BCAA1826A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1626A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA1926A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA1726A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.m */; };
-		04BCAA1C26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1A26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.h */; };
+		04BCAA1C26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1A26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA1D26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA1B26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.m */; };
-		04BCAA2126A613890015DEC0 /* CRSAbridgedCoordinateTransformation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1F26A613890015DEC0 /* CRSAbridgedCoordinateTransformation.h */; };
+		04BCAA2126A613890015DEC0 /* CRSAbridgedCoordinateTransformation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA1F26A613890015DEC0 /* CRSAbridgedCoordinateTransformation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA2226A613890015DEC0 /* CRSAbridgedCoordinateTransformation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA2026A613890015DEC0 /* CRSAbridgedCoordinateTransformation.m */; };
-		04BCAA2526A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2326A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.h */; };
+		04BCAA2526A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2326A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA2626A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA2426A61DC60015DEC0 /* CRSBoundCoordinateReferenceSystem.m */; };
-		04BCAA2A26A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2826A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.h */; };
+		04BCAA2A26A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2826A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA2B26A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA2926A6EA410015DEC0 /* CRSDerivedCoordinateReferenceSystem.m */; };
-		04BCAA2E26A6EAB40015DEC0 /* CRSDerivingConversion.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2C26A6EAB40015DEC0 /* CRSDerivingConversion.h */; };
+		04BCAA2E26A6EAB40015DEC0 /* CRSDerivingConversion.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA2C26A6EAB40015DEC0 /* CRSDerivingConversion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA2F26A6EAB40015DEC0 /* CRSDerivingConversion.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA2D26A6EAB40015DEC0 /* CRSDerivingConversion.m */; };
-		04BCAA3326A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3126A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.h */; };
+		04BCAA3326A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3126A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA3426A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA3226A701600015DEC0 /* CRSEngineeringCoordinateReferenceSystem.m */; };
-		04BCAA3726A701A50015DEC0 /* CRSEngineeringDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3526A701A50015DEC0 /* CRSEngineeringDatum.h */; };
+		04BCAA3726A701A50015DEC0 /* CRSEngineeringDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3526A701A50015DEC0 /* CRSEngineeringDatum.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA3826A701A50015DEC0 /* CRSEngineeringDatum.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA3626A701A50015DEC0 /* CRSEngineeringDatum.m */; };
-		04BCAA3C26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3A26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.h */; };
+		04BCAA3C26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3A26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA3D26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA3B26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.m */; };
-		04BCAA4026A71D9C0015DEC0 /* CRSParametricDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3E26A71D9C0015DEC0 /* CRSParametricDatum.h */; };
+		04BCAA4026A71D9C0015DEC0 /* CRSParametricDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA3E26A71D9C0015DEC0 /* CRSParametricDatum.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA4126A71D9C0015DEC0 /* CRSParametricDatum.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA3F26A71D9C0015DEC0 /* CRSParametricDatum.m */; };
-		04BCAA4526A7443D0015DEC0 /* CRSMapProjection.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4326A7443D0015DEC0 /* CRSMapProjection.h */; };
+		04BCAA4526A7443D0015DEC0 /* CRSMapProjection.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4326A7443D0015DEC0 /* CRSMapProjection.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA4626A7443D0015DEC0 /* CRSMapProjection.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA4426A7443D0015DEC0 /* CRSMapProjection.m */; };
-		04BCAA4926A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4726A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.h */; };
+		04BCAA4926A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4726A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA4A26A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA4826A748D60015DEC0 /* CRSProjectedCoordinateReferenceSystem.m */; };
-		04BCAA4E26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4C26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.h */; };
+		04BCAA4E26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA4C26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA4F26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA4D26A749510015DEC0 /* CRSGeoCoordinateReferenceSystem.m */; };
-		04BCAA5226A74E850015DEC0 /* CRSGeoReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5026A74E850015DEC0 /* CRSGeoReferenceFrame.h */; };
+		04BCAA5226A74E850015DEC0 /* CRSGeoReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5026A74E850015DEC0 /* CRSGeoReferenceFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA5326A74E850015DEC0 /* CRSGeoReferenceFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA5126A74E850015DEC0 /* CRSGeoReferenceFrame.m */; };
-		04BCAA5626A74F700015DEC0 /* CRSGeoDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5426A74F700015DEC0 /* CRSGeoDatumEnsemble.h */; };
+		04BCAA5626A74F700015DEC0 /* CRSGeoDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5426A74F700015DEC0 /* CRSGeoDatumEnsemble.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA5726A74F700015DEC0 /* CRSGeoDatumEnsemble.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA5526A74F700015DEC0 /* CRSGeoDatumEnsemble.m */; };
-		04BCAA5C26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5A26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.h */; };
+		04BCAA5C26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5A26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA5D26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA5B26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.m */; };
-		04BCAA6026A763AA0015DEC0 /* CRSTemporalDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5E26A763AA0015DEC0 /* CRSTemporalDatum.h */; };
+		04BCAA6026A763AA0015DEC0 /* CRSTemporalDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5E26A763AA0015DEC0 /* CRSTemporalDatum.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA6126A763AA0015DEC0 /* CRSTemporalDatum.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA5F26A763AA0015DEC0 /* CRSTemporalDatum.m */; };
-		04BCAA6526A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6326A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.h */; };
+		04BCAA6526A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6326A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA6626A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA6426A844BB0015DEC0 /* CRSVerticalCoordinateReferenceSystem.m */; };
-		04BCAA6926A84AB60015DEC0 /* CRSVerticalDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6726A84AB60015DEC0 /* CRSVerticalDatumEnsemble.h */; };
+		04BCAA6926A84AB60015DEC0 /* CRSVerticalDatumEnsemble.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6726A84AB60015DEC0 /* CRSVerticalDatumEnsemble.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA6A26A84AB60015DEC0 /* CRSVerticalDatumEnsemble.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA6826A84AB60015DEC0 /* CRSVerticalDatumEnsemble.m */; };
-		04BCAA6D26A84B500015DEC0 /* CRSVerticalReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6B26A84B500015DEC0 /* CRSVerticalReferenceFrame.h */; };
+		04BCAA6D26A84B500015DEC0 /* CRSVerticalReferenceFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6B26A84B500015DEC0 /* CRSVerticalReferenceFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA6E26A84B500015DEC0 /* CRSVerticalReferenceFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA6C26A84B500015DEC0 /* CRSVerticalReferenceFrame.m */; };
-		04BCAA7126A8905E0015DEC0 /* CRSEllipsoid.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6F26A8905E0015DEC0 /* CRSEllipsoid.h */; };
+		04BCAA7126A8905E0015DEC0 /* CRSEllipsoid.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA6F26A8905E0015DEC0 /* CRSEllipsoid.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA7226A8905E0015DEC0 /* CRSEllipsoid.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA7026A8905E0015DEC0 /* CRSEllipsoid.m */; };
-		04BCAA7526A89E000015DEC0 /* CRSEllipsoidTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7326A89E000015DEC0 /* CRSEllipsoidTypes.h */; };
+		04BCAA7526A89E000015DEC0 /* CRSEllipsoidTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7326A89E000015DEC0 /* CRSEllipsoidTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA7626A89E000015DEC0 /* CRSEllipsoidTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA7426A89E000015DEC0 /* CRSEllipsoidTypes.m */; };
-		04BCAA7926A8B6B90015DEC0 /* CRSPrimeMeridian.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7726A8B6B90015DEC0 /* CRSPrimeMeridian.h */; };
+		04BCAA7926A8B6B90015DEC0 /* CRSPrimeMeridian.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7726A8B6B90015DEC0 /* CRSPrimeMeridian.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA7A26A8B6B90015DEC0 /* CRSPrimeMeridian.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA7826A8B6B90015DEC0 /* CRSPrimeMeridian.m */; };
-		04BCAA7D26A991440015DEC0 /* CRSTriaxialEllipsoid.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7B26A991440015DEC0 /* CRSTriaxialEllipsoid.h */; };
+		04BCAA7D26A991440015DEC0 /* CRSTriaxialEllipsoid.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7B26A991440015DEC0 /* CRSTriaxialEllipsoid.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA7E26A991440015DEC0 /* CRSTriaxialEllipsoid.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA7C26A991440015DEC0 /* CRSTriaxialEllipsoid.m */; };
-		04BCAA8126A9AD020015DEC0 /* CRSKeyword.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7F26A9AD020015DEC0 /* CRSKeyword.h */; };
+		04BCAA8126A9AD020015DEC0 /* CRSKeyword.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA7F26A9AD020015DEC0 /* CRSKeyword.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		04BCAA8226A9AD020015DEC0 /* CRSKeyword.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BCAA8026A9AD020015DEC0 /* CRSKeyword.m */; };
 		04F4562F209B6D1000FC299E /* CRSTestUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F4562D209B6D1000FC299E /* CRSTestUtils.m */; };
-		455990E02D380E531EE4ACDC /* libPods-crs-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CF2802BAC0915BABF2D048D9 /* libPods-crs-ios.a */; };
-		B5D94958E350F092F31540ED /* libPods-crs-iosTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 499642A447440D35F38311C9 /* libPods-crs-iosTests.a */; };
+		C4DCE0E427045E65008E233E /* CRSScopeExtentIdentifierRemark.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA99A269DBA1C0015DEC0 /* CRSScopeExtentIdentifierRemark.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C4DCE0E527045EA8008E233E /* CRSIdentifiable.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCA98E269CC07E0015DEC0 /* CRSIdentifiable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C4DCE0E627045EB3008E233E /* CRSGeoDatum.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA5826A74FAB0015DEC0 /* CRSGeoDatum.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C4DCE0E727045EBC008E233E /* CRSCommonOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 04BCAA0026A5C74F0015DEC0 /* CRSCommonOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -221,7 +222,6 @@
 		0458104726EAAE4E0044DC70 /* CRSProjConstants.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRSProjConstants.m; sourceTree = "<group>"; };
 		0458104C26EB9B550044DC70 /* CRSProjParserTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CRSProjParserTest.h; sourceTree = "<group>"; };
 		0458104D26EB9B550044DC70 /* CRSProjParserTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRSProjParserTest.m; sourceTree = "<group>"; };
-		0472B51A1C03590500496B87 /* crs-ios-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "crs-ios-Bridging-Header.h"; sourceTree = "<group>"; };
 		04BCA981269CAAB40015DEC0 /* CRSCategoryTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CRSCategoryTypes.h; sourceTree = "<group>"; };
 		04BCA982269CAAB40015DEC0 /* CRSCategoryTypes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRSCategoryTypes.m; sourceTree = "<group>"; };
 		04BCA985269CAE880015DEC0 /* CRSTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CRSTypes.h; sourceTree = "<group>"; };
@@ -348,12 +348,6 @@
 		04BCAA8026A9AD020015DEC0 /* CRSKeyword.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRSKeyword.m; sourceTree = "<group>"; };
 		04F4562D209B6D1000FC299E /* CRSTestUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CRSTestUtils.m; sourceTree = "<group>"; };
 		04F4562E209B6D1000FC299E /* CRSTestUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRSTestUtils.h; sourceTree = "<group>"; };
-		499642A447440D35F38311C9 /* libPods-crs-iosTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-crs-iosTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4FD24597D37A9C5402B3279A /* Pods-crs-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crs-ios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-crs-ios/Pods-crs-ios.debug.xcconfig"; sourceTree = "<group>"; };
-		6179C77188B4A0E8D4DEDBEB /* Pods-crs-iosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crs-iosTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-crs-iosTests/Pods-crs-iosTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B17E59AE80997CC09DD740D6 /* Pods-crs-iosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crs-iosTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-crs-iosTests/Pods-crs-iosTests.release.xcconfig"; sourceTree = "<group>"; };
-		CF2802BAC0915BABF2D048D9 /* libPods-crs-ios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-crs-ios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DDE9611B54A8A4AC3941F59D /* Pods-crs-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crs-ios.release.xcconfig"; path = "Pods/Target Support Files/Pods-crs-ios/Pods-crs-ios.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -361,7 +355,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				455990E02D380E531EE4ACDC /* libPods-crs-ios.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,7 +363,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				042FC6571B963FE500549A4B /* crs_ios.framework in Frameworks */,
-				B5D94958E350F092F31540ED /* libPods-crs-iosTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,7 +383,6 @@
 				042FC64D1B963FE500549A4B /* crs-ios */,
 				042FC65A1B963FE500549A4B /* crs-iosTests */,
 				042FC64C1B963FE500549A4B /* Products */,
-				987AE7974D8B4ECED7B3FB6B /* Pods */,
 				63206AE083C9F99B2058A9EE /* Frameworks */,
 			);
 			sourceTree = "<group>";
@@ -438,7 +429,6 @@
 				04BCA986269CAE880015DEC0 /* CRSTypes.m */,
 				042FC69E1B96421E00549A4B /* crs-ios-Prefix.pch */,
 				042FC64E1B963FE500549A4B /* Supporting Files */,
-				0472B51A1C03590500496B87 /* crs-ios-Bridging-Header.h */,
 			);
 			path = "crs-ios";
 			sourceTree = "<group>";
@@ -743,21 +733,8 @@
 		63206AE083C9F99B2058A9EE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				499642A447440D35F38311C9 /* libPods-crs-iosTests.a */,
-				CF2802BAC0915BABF2D048D9 /* libPods-crs-ios.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		987AE7974D8B4ECED7B3FB6B /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				6179C77188B4A0E8D4DEDBEB /* Pods-crs-iosTests.debug.xcconfig */,
-				B17E59AE80997CC09DD740D6 /* Pods-crs-iosTests.release.xcconfig */,
-				4FD24597D37A9C5402B3279A /* Pods-crs-ios.debug.xcconfig */,
-				DDE9611B54A8A4AC3941F59D /* Pods-crs-ios.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -780,11 +757,11 @@
 				04BCAA7126A8905E0015DEC0 /* CRSEllipsoid.h in Headers */,
 				04BCAA1426A5EBD50015DEC0 /* CRSCoordinateMetadata.h in Headers */,
 				04BCA992269CC4A40015DEC0 /* CRSIdentifier.h in Headers */,
+				C4DCE0E627045EB3008E233E /* CRSGeoDatum.h in Headers */,
 				04BCAA3C26A71B500015DEC0 /* CRSParametricCoordinateReferenceSystem.h in Headers */,
 				04BCAA0326A5CB7B0015DEC0 /* CRSConcatenatedOperation.h in Headers */,
 				04BCAA6D26A84B500015DEC0 /* CRSVerticalReferenceFrame.h in Headers */,
 				04BCA9FE26A5BA7C0015DEC0 /* CRSOperation.h in Headers */,
-				0472B51B1C03590500496B87 /* crs-ios-Bridging-Header.h in Headers */,
 				04BCA998269DB03B0015DEC0 /* CRSWriter.h in Headers */,
 				04BCAA1826A5FD030015DEC0 /* CRSCompoundCoordinateReferenceSystem.h in Headers */,
 				0442249D26A9E75300B1E1F2 /* CRSReader.h in Headers */,
@@ -795,15 +772,18 @@
 				04BCAA5C26A763660015DEC0 /* CRSTemporalCoordinateReferenceSystem.h in Headers */,
 				044224A926A9E98800B1E1F2 /* CRSTextUtils.h in Headers */,
 				04BCAA5626A74F700015DEC0 /* CRSGeoDatumEnsemble.h in Headers */,
+				C4DCE0E727045EBC008E233E /* CRSCommonOperation.h in Headers */,
 				04BCAA1C26A5FEAD0015DEC0 /* CRSSimpleCoordinateReferenceSystem.h in Headers */,
 				04BCA9C6269F7B980015DEC0 /* CRSAxisDirectionTypes.h in Headers */,
 				04BCAA4526A7443D0015DEC0 /* CRSMapProjection.h in Headers */,
+				C4DCE0E427045E65008E233E /* CRSScopeExtentIdentifierRemark.h in Headers */,
 				04BCA9AD269E18320015DEC0 /* CRSDateTime.h in Headers */,
 				04BCA99D269DC4540015DEC0 /* CRSGeographicBoundingBox.h in Headers */,
 				04BCA9CA269F7CBE0015DEC0 /* CRSAxis.h in Headers */,
 				04BCAA6926A84AB60015DEC0 /* CRSVerticalDatumEnsemble.h in Headers */,
 				04BCAA3726A701A50015DEC0 /* CRSEngineeringDatum.h in Headers */,
 				04BCAA0726A5DA440015DEC0 /* CRSSimpleOperation.h in Headers */,
+				C4DCE0E527045EA8008E233E /* CRSIdentifiable.h in Headers */,
 				04BCA9EA26A1AD7E0015DEC0 /* CRSOperationTypes.h in Headers */,
 				04BCA9C1269F719E0015DEC0 /* CRSCoordinateReferenceSystem.h in Headers */,
 				04BCAA8126A9AD020015DEC0 /* CRSKeyword.h in Headers */,
@@ -851,7 +831,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 042FC6611B963FE500549A4B /* Build configuration list for PBXNativeTarget "crs-ios" */;
 			buildPhases = (
-				EEA6042CA950F54D06F509F1 /* [CP] Check Pods Manifest.lock */,
 				042FC6461B963FE500549A4B /* Sources */,
 				042FC6471B963FE500549A4B /* Frameworks */,
 				042FC6481B963FE500549A4B /* Headers */,
@@ -952,24 +931,6 @@
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-crs-iosTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		EEA6042CA950F54D06F509F1 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-crs-ios-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1107,7 +1068,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -1168,7 +1129,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -1202,7 +1163,6 @@
 		};
 		042FC6621B963FE500549A4B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4FD24597D37A9C5402B3279A /* Pods-crs-ios.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
@@ -1220,7 +1180,6 @@
 		};
 		042FC6631B963FE500549A4B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDE9611B54A8A4AC3941F59D /* Pods-crs-ios.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
@@ -1238,7 +1197,6 @@
 		};
 		042FC6651B963FE500549A4B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6179C77188B4A0E8D4DEDBEB /* Pods-crs-iosTests.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1260,7 +1218,6 @@
 		};
 		042FC6661B963FE500549A4B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B17E59AE80997CC09DD740D6 /* Pods-crs-iosTests.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
